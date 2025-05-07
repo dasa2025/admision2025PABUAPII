@@ -18,7 +18,7 @@ Ningún material puede reemplazar lo que aprendiste en la secundaria. Sigue repa
 
 ---
 
-## :white_check_mark: Consejos para Estudiar
+## ✔️ Consejos para Estudiar
 
 - **Organízate con alegría**: Arma un plan de estudio que puedas cumplir, con horarios claros, pero también con pausas para relajarte y despejarte.
 - **Sé activo al estudiar**: No solo leas los materiales, ¡anímate a escribir, resumir, dibujar o practicar ejercicios! Esto hará que aprendas mejor.
@@ -39,7 +39,7 @@ Para comemzar con el pie derecho, te invitamos a realizar la siguiente prueba di
 
 ---
 
-## 📏 Módulo 1: Matemáticas
+## 📏 Módulo 1: Razonamiento matemático y ciencia de datos
 
 **Motivación**
 - ¡Bienvenido al increíble mundo de las matemáticas! Sabemos que para algunos puede parecer complicado, pero aquí vamos a descubrir juntos que las matemáticas pueden ser divertidas, interesantes y útiles para la vida diaria. En este módulo encontrarás recursos oficiales que te permitirán repasar y mejorar tus habilidades matemáticas,
@@ -51,23 +51,29 @@ Para comemzar con el pie derecho, te invitamos a realizar la siguiente prueba di
 
 ---
 
-## 🔬 Módulo 2: Conceptos clave
+## 🔬 Módulo 2: Ciencias y tecnología para el futuro
+- Este módulo es una invitación a descubrir lo fascinante que puede ser el mundo de las ciencias. Aquí encontrarás recursos que te ayudarán a repasar conceptos desde la biología y la química, hasta llegar la física. Usa estos materiales para explorar, experimentar y despertar tu curiosidad científica. ¡Prepárate para aprender y divertirte al mismo tiempo!
 
-**Temas:**
-- Principio A
-- Principio B
-
-**Material:**
-- [Artículo recomendado](https://ejemplo.com/articulo)
-- [Ejercicios en PDF](materiales/modulo2-ejercicios.pdf)
+**Materiales:**
+- [Flujo de Trabajo: Balanceo por tanteo. PA BUAP II](https://www.goconqr.com/en/flowchart/40419028/flujo-de-trabajo-balanceo-por-tanteo-pa-buap-ii)
+- [Tarjetas de Estudio. Biología. PA BUAP II](https://www.goconqr.com/en/flashcard/40418750/tarjetas-de-estudio-biologia-pa-buap-ii)
+- [Tarjetas de Estudio. Física. PA BUAP II](https://www.goconqr.com/en/flashcard/40418728/tarjetas-de-estudio-fisica-pa-buap-ii)
+- [Tarjetas de Estudio. Química. PA BUAP II](https://www.goconqr.com/en/flashcard/40418745/tarjetas-de-estudio-quimica-pa-buap-ii)
+- [Formulario de Física y Química para la PA BUAP II](Materiales/formulario_fisquim.pdf)
 
 ---
 
-## 🧪 Módulo 3: Aplicaciones prácticas
-
-**Actividad sugerida:**
-- Realiza un pequeño proyecto sobre lo aprendido.
-- Comparte tus resultados en redes o con tus compañeros.
+## 🫂 Módulo 3: Sociedad, cultura y ciudadanía global 
+- Este módulo está diseñado para abrir tu mente y ayudarte a comprender mejor el mundo en el que vivimos. Aquí revisaremos temas relacionados con la sociedad, cultura, historia y ciudadanía que te permitirán desarrollar una visión crítica y consciente. Aprovecha los recursos disponibles, explora diversas perspectivas y descubre lo emocionante que es aprender sobre diferentes culturas y épocas.
+- 
+**Materiales:**
+- [Tarjetas de Estudio. Historia de México 1. PA BUAP II](https://www.goconqr.com/en/flashcard/40417524/tarjetas-de-estudio-historia-de-mexico-1-pa-buap-ii)
+- [Tarjetas de Estudio. Historia de México 2. PA BUAP II](https://www.goconqr.com/en/flashcard/40417538/tarjetas-de-estudio-historia-de-mexico-2-pa-buap-ii)
+- [Tarjetas de Estudio: Historia de México 3. PA BUAP II](https://www.goconqr.com/en/flashcard/40417561/tarjetas-de-estudio-historia-de-mexico-3-pa-buap-ii)
+- [Tarjetas de Estudio: Historia de México 4. PA BUAP II](https://www.goconqr.com/en/flashcard/40417755/tarjetas-de-estudio-historia-de-mexico-4-pa-buap-ii)
+- [Tarjetas de Estudio: Historia Universal. PA BUAP II](https://www.goconqr.com/en/flashcard/40418643/tarjetas-de-estudio-historia-universal-pa-buap-ii)
+- [Tarjetas de Estudio. Civismo y democracia. PA BUAP II](https://www.goconqr.com/en/flashcard/40418677/tarjetas-de-estudio-civismo-y-democracia-pa-buap-ii)
+- [Tarjetas de Estudio. Ciencias Sociales. PA BUAP II ](https://www.goconqr.com/en/flashcard/38736256/tarjetas-de-estudio-ciencias-sociales-pa-buap-ii) 
 
 ---
 
