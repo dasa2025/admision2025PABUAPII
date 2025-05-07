@@ -37,39 +37,6 @@ Para comemzar con el pie derecho, te invitamos a realizar la siguiente prueba di
 
 [PRUEBA DIAGNÓSTICA PA BUAP II](https://www.goconqr.com/en/quiz/40411077/prueba-diagnostica-pa-buap-ii)
 
-H5P
----
-layout: default
-title: Formulario Física y Química
----
-
-# Formulario de Física y Química
-
-Aquí tienes las fórmulas clave…
-
----
-
-## Practica interactiva
-
-⌾ Responde este quiz y ve tu puntuación al instante:
-
-<div id="h5p-container"></div>
-
-{% raw %}
-<script src="/vendor/h5p-standalone/main.bundle.js"></script>
-<script>
-  const el = document.getElementById('h5p-container');
-  new H5PStandalone.H5P(el, {
-    h5pJsonPath: '/Materiales/PABUAPI',                // carpeta con content.json
-    frameJs:      '/vendor/h5p-standalone/frame.bundle.js',
-    frameCss:     '/vendor/h5p-standalone/styles/h5p.css'
-  });
-</script>
-{% endraw %}
-
----
-
-
 ---
 
 ## 📏 Módulo 1: Matemáticas
