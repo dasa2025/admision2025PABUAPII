@@ -80,6 +80,7 @@ Para comemzar con el pie derecho, te invitamos a realizar la siguiente prueba di
 ## 🏅 Comentarios Finales
 
 Estos materiales no son obligatorios y son totalmente gratuitos. Sin embargo, puedes autoevaluarte con la prueba diagnóstica. 
+
 **Nota importante**: Algunos materiales serán complementados durante la semana del 2 al 6 de junio de 2025, así que te invitamos a mantenerte pendiente para contar siempre con la información más reciente.
 
 ¡Tu éxito empieza aquí! Estamos seguros de que, con tu esfuerzo y energía positiva, lograrás grandes cosas. ¡Ánimo y mucho éxito en tu preparación para la PA-BUAP II!
