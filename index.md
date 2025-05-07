@@ -50,6 +50,8 @@ Para comemzar con el pie derecho, te invitamos a realizar la siguiente prueba di
 - [Tarjetas de Ejercitación. Operaciones. PA BUAP II](https://www.goconqr.com/en/flashcard/38766532/tarjetas-de-ejercitacion-operaciones-pa-buap-ii)
 
 Prueba de H5P
+
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -76,6 +78,7 @@ Prueba de H5P
   </script>
 </body>
 </html>
+```
 
 
 
