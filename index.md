@@ -77,20 +77,20 @@ Para comemzar con el pie derecho, te invitamos a realizar la siguiente prueba di
 
 ---
 
-## ✅ Evaluación final
+## 🏅 Comentarios Finales
 
-Este curso no tiene exámenes obligatorios. Sin embargo, puedes autoevaluarte con este cuestionario:
+Estos materiales no son obligatorios y son totalmente gratuitos. Sin embargo, puedes autoevaluarte con la prueba diagnóstica. 
+**Nota importante**: Algunos materiales serán complementados durante la semana del 2 al 6 de junio de 2025, así que te invitamos a mantenerte pendiente para contar siempre con la información más reciente.
 
-- ¿Puedo explicar los conceptos principales con mis propias palabras?
-- ¿Puedo aplicar X en un caso práctico?
+¡Tu éxito empieza aquí! Estamos seguros de que, con tu esfuerzo y energía positiva, lograrás grandes cosas. ¡Ánimo y mucho éxito en tu preparación para la PA-BUAP II!
 
 ---
 
 ## 📩 Contacto
 
 Si tienes dudas o quieres sugerir mejoras, escribe a:  
-**tucorreo@ejemplo.com**
+**seguimientoacademico@correo.buap.mx**
 
 ---
 
-_Curso publicado con ❤️ usando [GitHub Pages](https://pages.github.com)_
+_Curso publicado con ❤️ usando [GitHub Pages](https://pages.github.com) El material ha sido creado con el trabajo de docentes de la BUAP y apoyado por herramientas de IA tales como Magic School, Questgen, Quizgecko, PrepAi y modelos avanzados de ChatGPT, Gemini y Deepseek._
