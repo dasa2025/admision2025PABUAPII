@@ -21,7 +21,7 @@ Bienvenido/a a este curso gratuito. Aquí encontrarás todo el contenido organiz
 
 **Material:**
 - [Ver video en YouTube](https://www.youtube.com/watch?v=xxxxxxxx)
-- [Descargar PDF con resumen](materiales/modulo1-resumen.pdf)
+- [Materiales Nuevos](Materiales/Materiales.md)
 
 ---
 
