@@ -2,23 +2,28 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <title>Quiz H5P en GitHub Pages</title>
-  <!-- Carga local del CSS de H5P-Standalone -->
-  <link rel="stylesheet" href="vendor/h5p-standalone/h5p.css">
+  <title>PRUEBA DIAGNÓSTICA PA BUAP I</title>
+  <!-- CSS del player -->
+  <link rel="stylesheet"
+        href="vendor/h5p-standalone/styles/h5p.css">
 </head>
 <body>
-  <h1>Ejercicio de Práctica</h1>
+  <h1>Quiz de Práctica</h1>
 
-  <!-- Contenedor H5P -->
-  <div class="h5p-content" data-content-path="content/miQuiz.h5p"></div>
+  <!-- Contenedor donde se montará el H5P -->
+  <div id="h5p-container"></div>
 
-  <!-- Carga local del JS de H5P-Standalone -->
-  <script src="vendor/h5p-standalone/h5p-standalone.js"></script>
+  <!-- Script principal del player -->
+  <script src="vendor/h5p-standalone/main.bundle.js"></script>
   <script>
-    // Inicialización: no muevas esta parte
-    H5PStandalone.init({
-      selector: '.h5p-content',
-      frame: true
+    // Inicializa el reproductor H5P
+    const el = document.getElementById('h5p-container');
+    new H5PStandalone.H5P(el, {
+      // Ruta a la carpeta con content.json descomprimido
+      h5pJsonPath: 'Materiales/PABUAPI.h5p',
+      // Scripts y estilos del player
+      frameJs:  'vendor/h5p-standalone/frame.bundle.js',
+      frameCss: 'vendor/h5p-standalone/styles/h5p.css'
     });
   </script>
 </body>
