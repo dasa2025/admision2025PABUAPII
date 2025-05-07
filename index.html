@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Quiz H5P en GitHub Pages</title>
+  <!-- Carga local del CSS de H5P-Standalone -->
+  <link rel="stylesheet" href="vendor/h5p-standalone/h5p.css">
+</head>
+<body>
+  <h1>Ejercicio de Práctica</h1>
+
+  <!-- Contenedor H5P -->
+  <div class="h5p-content" data-content-path="content/miQuiz.h5p"></div>
+
+  <!-- Carga local del JS de H5P-Standalone -->
+  <script src="vendor/h5p-standalone/h5p-standalone.js"></script>
+  <script>
+    // Inicialización: no muevas esta parte
+    H5PStandalone.init({
+      selector: '.h5p-content',
+      frame: true
+    });
+  </script>
+</body>
+</html>
