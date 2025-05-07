@@ -37,6 +37,15 @@ Para comemzar con el pie derecho, te invitamos a realizar la siguiente prueba di
 
 [PRUEBA DIAGNÓSTICA PA BUAP II](https://www.goconqr.com/en/quiz/40411077/prueba-diagnostica-pa-buap-ii)
 
+H5P
+<iframe
+  src="/index.html"
+  width="100%"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 ---
 
 ## 📏 Módulo 1: Matemáticas
