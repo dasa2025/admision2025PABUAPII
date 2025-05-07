@@ -8,7 +8,7 @@ Ningún material puede reemplazar lo que aprendiste en la secundaria. Sigue repa
 
 ---
 
-## 🧠 Objetivos del curso
+## 🧠 Objetivos de los Materiales de Preparación
 
 - Ofrecerte materiales oficiales, gratuitos y alineados con el temario de la PA-BUAP II.
 - Ayudarte a entender claramente cada uno de los temas que se evaluarán en la prueba.
