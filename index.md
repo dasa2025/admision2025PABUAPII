@@ -49,39 +49,6 @@ Para comemzar con el pie derecho, te invitamos a realizar la siguiente prueba di
 - [Tarjetas de Ejercitación. Matemáticas. PA BUAP II](https://www.goconqr.com/en/flashcard/38766537/tarjetas-de-ejercitacion-matematicas-pa-buap-ii)
 - [Tarjetas de Ejercitación. Operaciones. PA BUAP II](https://www.goconqr.com/en/flashcard/38766532/tarjetas-de-ejercitacion-operaciones-pa-buap-ii)
 
-Prueba de H5P
-
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="utf-8">
-  <title>Mi Quiz H5P</title>
-  <!-- Estilos de H5P Standalone desde jsDelivr -->
-  <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/h5p-standalone/dist/styles/h5p.css">
-</head>
-<body>
-  <h1>Quiz de Práctica</h1>
-
-  <div class="h5p-content"
-       data-content-path="content/miQuiz.h5p">
-  </div>
-
-  <!-- Script de H5P Standalone desde jsDelivr -->
-  <script src="https://cdn.jsdelivr.net/npm/h5p-standalone/dist/h5p-standalone.js"></script>
-  <script>
-    H5PStandalone.init({
-      selector: '.h5p-content',
-      frame: true
-    });
-  </script>
-</body>
-</html>
-```
-
-
-
 ---
 
 ## 🔬 Módulo 2: Conceptos clave
