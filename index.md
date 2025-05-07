@@ -42,7 +42,7 @@ Para comemzar con el pie derecho, te invitamos a realizar la siguiente prueba di
 ## 📏 Módulo 1: Razonamiento matemático y ciencia de datos
 
 **Motivación**
-- ¡Bienvenido al increíble mundo de las matemáticas! Sabemos que para algunos puede parecer complicado, pero aquí vamos a descubrir juntos que las matemáticas pueden ser divertidas, interesantes y útiles para la vida diaria. En este módulo encontrarás recursos oficiales que te permitirán repasar y mejorar tus habilidades matemáticas,
+- ¡Bienvenido al increíble mundo de las matemáticas! Sabemos que para algunos puede parecer complicado, pero aquí vamos a descubrir juntos que las matemáticas pueden ser divertidas, interesantes y útiles para la vida diaria. En este módulo encontrarás recursos oficiales que te permitirán repasar y mejorar tus habilidades matemáticas.
 
 **Materiales:**
 - [Formulario de Matemáticas para la preparación de la PA BUAP II](Materiales/formulario_mate.pdf)
@@ -65,7 +65,7 @@ Para comemzar con el pie derecho, te invitamos a realizar la siguiente prueba di
 
 ## 🫂 Módulo 3: Sociedad, cultura y ciudadanía global 
 - Este módulo está diseñado para abrir tu mente y ayudarte a comprender mejor el mundo en el que vivimos. Aquí revisaremos temas relacionados con la sociedad, cultura, historia y ciudadanía que te permitirán desarrollar una visión crítica y consciente. Aprovecha los recursos disponibles, explora diversas perspectivas y descubre lo emocionante que es aprender sobre diferentes culturas y épocas.
-- 
+
 **Materiales:**
 - [Tarjetas de Estudio. Historia de México 1. PA BUAP II](https://www.goconqr.com/en/flashcard/40417524/tarjetas-de-estudio-historia-de-mexico-1-pa-buap-ii)
 - [Tarjetas de Estudio. Historia de México 2. PA BUAP II](https://www.goconqr.com/en/flashcard/40417538/tarjetas-de-estudio-historia-de-mexico-2-pa-buap-ii)
